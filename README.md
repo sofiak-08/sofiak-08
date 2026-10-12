@@ -12,7 +12,7 @@
 <br>
 
 <a href="https://sofiak-08.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F5A524&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Sofia+Chicaiza+%E2%80%94+Ingeniera+Mecatr%C3%B3nica;Automatizaci%C3%B3n+%7C+Control+%7C+Mantenimiento+Industrial;PLC+%E2%80%A2+MQTT+%E2%80%A2+Visi%C3%B3n+Artificial+%E2%80%A2+IIoT;Rob%C3%B3tica+-+Datos+-+Industria+4.0+-+Caf%C3%A9" alt="Banner animado con perfil de Ingeniera en Mecatrónica">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F5A524&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Sofia+Chicaiza+%E2%80%94+Ingeniera+Mecatr%C3%B3nica;Automatizaci%C3%B3n+%7C+Control+%7C+Mantenimiento+Industrial;PLC+%E2%80%A2+MQTT+%E2%80%A2+Visi%C3%B3n+Artificial+%E2%80%A2+IIoT;Rob%C3%B3tica+-+Datos+-+Industria+4.0" alt="Banner animado con perfil de Ingeniera en Mecatrónica">
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=sofiak-08&style=flat&color=f5a524&label=profile+views" alt="profile views">
